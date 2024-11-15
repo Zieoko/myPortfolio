@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+    <title>Formulaire de Contacts</title>
+    <link rel="stylesheet" href="./formulaireStyle.css">
+
+    <script type="text/javascript"
+        src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js">
+    </script>
+    <script src="./formullaire.js"></script>
+</head>
+
+<body>
+  <p id="status"></p>
+    <div class="contactez-nous">
+        <h1>Contactez-moi</h1>
+        <p>Vous souhaitez me contacter?</p>
+        <form id="contact-form">
+          <div>
+            <label for="nom">Votre nom</label>
+            <input type="text" id="nom" name="nom" placeholder="Nom Prénom" required>
+          </div>
+          <div>
+            <label for="email">Votre e-mail</label>
+            <input type="email" id="email" name="email" placeholder="adresse@email.com" required>
+          </div>
+          <div>
+            <label for="message">Votre message</label>
+            <textarea id="message" name="message" placeholder="Inscrire votre message ici !" required></textarea>
+          </div>
+          <div>
+            <button type="submit" onclick="sendMail()">Envoyer mon message</button>
+          </div>
+        </form>
+      </div>
+
+</body>
+
+</html>
