@@ -1,5 +1,5 @@
 body {
-  background-image: url("https://www.chiefsalesleader.com/wp-content/uploads/2018/03/Contact-Us-Background.jpg");
+  background: rgb(255, 255, 255);
   font-family: Montserrat, "sans-serif";
   display: flex;
   justify-content: center;
@@ -69,11 +69,11 @@ body {
   }
   
   form div > select:invalid {
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   }
   
   form div > select option {
-  background: rgb(255, 255, 255);
+  background: rgb(0, 0, 0);
   color: #ffffff;
   }
   
