@@ -69,11 +69,11 @@ body {
   }
   
   form div > select:invalid {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   }
   
   form div > select option {
-  background: rgb(0, 0, 0);
+  background: rgb(255, 255, 255);
   color: #ffffff;
   }
   
