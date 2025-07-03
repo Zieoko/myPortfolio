@@ -140,8 +140,8 @@ body{
  }
 
  .button button:hover{
-  background: rgb(173, 7, 7);
-  color: rgb(185, 152, 86);
+  background: rgb(185, 152, 40);
+  color: rgb(45, 45, 45);
  }  
 
  .contenue{
