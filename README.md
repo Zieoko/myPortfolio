@@ -10,6 +10,8 @@ Je suis actuellement étudiant en **BTS SIO**, spécialité SISR (Solutions d’
 
 Passionné par l'informatique, je développe des compétences en gestion de réseaux, cybersécurité et administration système.
 
+J'aimerais dans l'avenir devenir technitien de maintenance informatique.
+
 ## 📩 Me contacter
 
 - Email : remipernak@gmail.com
