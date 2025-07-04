@@ -12,7 +12,7 @@ body{
 .en-tete{
   position: static;
   text-align: center;
-  color: #eee;
+  color: #c9c7c7;
   font-size: 20px;
   font-family: system-ui;
 }
@@ -74,7 +74,7 @@ body{
   left: 100px;
   width: 300px;
   text-align: left;
-  color: #eee;
+  color: #c9c7c7;
   transform: translate(0, -50%);
   font-family: system-ui;
   display: none;
@@ -158,7 +158,7 @@ body{
 .page-veille{
   position: static;
   text-align: center;
-  color: #eee;
+  color: #c9c7c7;
   font-size: 20px;
   font-family: system-ui;
 }
