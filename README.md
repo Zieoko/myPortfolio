@@ -15,6 +15,7 @@ J'aimerais dans l'avenir devenir technicien de maintenance informatique.
 ## 📩 Me contacter
 
 - Email : remipernak@gmail.com
+- Téléphone : +33 767959674
 - GitHub : [https://github.com/zieoko.com](https://github.com/Zieoko)
 
 ---
