@@ -74,7 +74,7 @@ body{
   left: 100px;
   width: 300px;
   text-align: left;
-  color: #eee;
+  color: #000000;
   transform: translate(0, -50%);
   font-family: system-ui;
   display: none;
