@@ -136,11 +136,11 @@ body{
   margin: 0 5px;
   border: lpx solid #000;
   transition: 0.3s;
-  background-color: rgb(224, 180, 61);
+  background-color: rgb(215, 255, 188);
  }
 
  .button button:hover{
-  background: rgb(185, 152, 40);
+  background: rgb(156, 184, 136);
   color: rgb(45, 45, 45);
  }  
 
