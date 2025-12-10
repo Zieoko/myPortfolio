@@ -12,7 +12,7 @@ body{
 .en-tete{
   position: static;
   text-align: center;
-  color: #eee;
+  color: #000000;
   font-size: 20px;
   font-family: system-ui;
 }
